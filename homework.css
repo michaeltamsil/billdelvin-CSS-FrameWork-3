@@ -4,6 +4,6 @@
 }
 
 .navbar{
-    flex-wrap: inherit;
+    /*flex-wrap: inherit;*/
     padding : 2rem;
 }
